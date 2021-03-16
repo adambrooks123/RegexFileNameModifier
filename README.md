@@ -1,16 +1,17 @@
 # RegexFileNameModifier
 
-A simple program to change batch file names with given Regex rules. 
-----------------------------
+---------------------------
 
-###File:
+A simple program to change batch file names with given Regex rules. 
+
+### File:
 
 filename.py - The main program. 
 
 readme.md - This file. 
 
 
-###Instruction:
+### Instruction:
 
 Detailed instruction could be found in the program file. 
 
